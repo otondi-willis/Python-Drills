@@ -2,4 +2,4 @@
 #  and then welcomes them
 
 name = input("Enter your name: ")
-print("Hello ", name)
+print("Hello ",name)
